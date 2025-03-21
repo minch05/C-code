@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7B311C-479D-4EDD-8B72-A6D717DB9C8A}|2025.03.21.vcxproj|\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7B311C-479D-4EDD-8B72-A6D717DB9C8A}|2025.03.21.vcxproj|\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\OperaterFour.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7B311C-479D-4EDD-8B72-A6D717DB9C8A}|2025.03.21.vcxproj|\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\SimpleAddTwo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "func.c",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\func.c",
+              "RelativeDocumentMoniker": "func.c",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\func.c",
+              "RelativeToolTip": "func.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-21T11:04:26.82Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperaterFour.c",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\OperaterFour.c",
+              "RelativeDocumentMoniker": "OperaterFour.c",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\OperaterFour.c",
+              "RelativeToolTip": "OperaterFour.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-21T06:29:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleAddTwo.c",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\SimpleAddTwo.c",
+              "RelativeDocumentMoniker": "SimpleAddTwo.c",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\SimpleAddTwo.c",
+              "RelativeToolTip": "SimpleAddTwo.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-21T04:25:01.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
