@@ -27,9 +27,9 @@
               "Title": "func.c",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\func.c",
               "RelativeDocumentMoniker": "func.c",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\func.c",
-              "RelativeToolTip": "func.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C\uC5B8\uC5B4 \uD504\uB85C\uADF8\uB798\uBC0D\\source\\2025.03.21\\func.c*",
+              "RelativeToolTip": "func.c*",
+              "ViewState": "AgIAAAMAAADA/f////8CwA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-21T11:04:26.82Z",
               "IsPinned": true,
@@ -57,8 +57,7 @@
               "RelativeToolTip": "OperaterFour.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-21T06:29:36.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T06:29:36.934Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "RelativeToolTip": "SimpleAddTwo.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-21T04:25:01.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T04:25:01.13Z"
             }
           ]
         }
